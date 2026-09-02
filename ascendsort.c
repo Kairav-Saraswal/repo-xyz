@@ -1,6 +1,3 @@
-//16 March 2026
-//bubble sort algorithm
-//18 jun 26 git changes
 
 #include<stdio.h>
 int main(){
