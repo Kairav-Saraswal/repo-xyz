@@ -7,11 +7,10 @@ int main(){
     
     int arr[n];
     
-    for(i=0;i<n;i++){
+    for(i = 0;i < n;i ++)
         scanf("%d",arr+i);
-    }
-    printf("The array is:");
     
+    printf("The array is:");
     for(i=0;i<n;i++){
         printf("%d ",*(arr+i));
     }
